@@ -16,7 +16,7 @@ Additionally, it makes use of some private Webamp APIs to add the following func
 
 To do an optimized build of the demo site, you can run:
 
-    yarn run build
+   yarn run build 
 
 If you wish to test this build locally, run:
 

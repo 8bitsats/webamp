@@ -8,6 +8,7 @@ yarn
 yarn start
 ```
 
+
 ## Performance Improvements
 
 - [ ] We could use CSS `filter` to try to improve the speed of switching gamma colors?
